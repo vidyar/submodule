@@ -1,0 +1,4 @@
+language: python
+python:
+  - 2.7
+script: cat ./sub1/sub1.txt
