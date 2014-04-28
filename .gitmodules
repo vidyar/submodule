@@ -1,6 +1,6 @@
 [submodule "sub1"]
 	path = sub1
-	url = ./sub1
+	url = git@github.com:vidyar/sub1.git
 [submodule "sub2"]
 	path = sub2
-	url = ./sub2
+	url = git@github.com:vidyar/sub2.git
