@@ -1,6 +1,7 @@
-language: python
-python:
-  - 2.7
+language: ruby
+before_install:
+  - git submodule update --init
+
 script: 
   - cat sub1/sub1.txt
   - cat sub2/sub2.txt
