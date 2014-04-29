@@ -1,6 +1,6 @@
 language: ruby
-before_install:
-  - git submodule update --init
+#before_install:
+ # - git submodule update --init
 
 script: 
   - cat sub1/sub1.txt
